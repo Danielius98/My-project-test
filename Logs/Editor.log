@@ -1,0 +1,439 @@
+Unity Editor version:    6000.6.4f1 (12bfff696524)
+Branch:                  6000.6/staging
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 27.0.1 (Build 26A434)
+Darwin version:          27.0.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        24576 MB
+Date:                    2026-10-16T05:42:41Z
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 4379)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 4381)
+VBCSCompiler prewarm took 2.52 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-a1234" at "2026-10-16T05:42:41.691616Z"
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/MacOS/Unity
+-projectpath
+/Users/a1234/My project (1)
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-a1234
+-hubSessionId
+a4f5eff0-73d8-4ad5-8e07-8dacd0de2084
+-accessToken
+VnjIx-Lik3lLC4EJcUMpSd3JDDHxjx-e8iPWTMVbLFM009f
+Successfully changed project path to: /Users/a1234/My project (1)
+/Users/a1234/My project (1)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [8406876032]  Target information:
+
+Player connection [8406876032]  * "[IP] 192.168.0.15 [Port] 55505 [Flags] 2 [Guid] 4115429488 [EditorId] 4115429488 [Version] 1048832 [Id] OSXEditor(0,Adolf.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8406876032]  * "[IP] 169.254.10.2 [Port] 55505 [Flags] 2 [Guid] 4115429488 [EditorId] 4115429488 [Version] 1048832 [Id] OSXEditor(0,Adolf.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8406876032] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8406876032] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-4378" after 0.0 seconds.
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              0f1555950f5a419b9b1bc5dd6b4392d2
+  Correlation Id:          6dfe5d31b695958111fa0c39425c6f43
+  External correlation Id: 113581336540368821
+  Machine Id:              9TDmyRxWaDPvQluzd0eSDlZwWho=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-a1234" (connect: 0.00s, validation: 0.00s, handshake: 0.28s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-a1234-notifications" at "2026-10-16T05:42:41.972334Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token VnjIx-Lik3...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 10171659691930-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.28s
+[Licensing::Module] Licensing is initialized (took 0.04s).
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 00605ea42d1d83424071aa122f92db17
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Helpers/Unity.DataStore 
+Unity Data Store artifact dir = Library/DataStore, working dir = /Users/a1234/My project (1)Unity Data Store running and initialised
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.4f1 (12bfff696524)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/a1234/My project (1)/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M4 Pro (high power)
+Metal devices available: 1
+0: Apple M4 Pro (high power)
+Using device Apple M4 Pro (high power)
+Initializing Metal device caps: Apple M4 Pro
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56378
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.4f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.4f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000492 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.386 seconds
+Domain Reload Profiling: 651ms
+	BeginReloadAssembly (48ms)
+	RebuildCommonClasses (3ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (176ms)
+		LoadAssemblies (46ms)
+		TypeCache.Refresh (122ms)
+			TypeCache.ScanAssembly (114ms)
+		AnalyzeDomain (0ms)
+	FinalizeReload (387ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (59ms)
+			ProcessInitializeOnLoadMethodAttributes (159ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 59 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ai.navigation@2.0.14 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b)
+    com.unity.collab-proxy@2.13.6 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4)
+    com.unity.ide.rider@3.0.38 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.inputsystem@7a4e1a2a8194)
+    com.unity.visualscripting@1.9.12 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.visualscripting@4edfcc09512f)
+    com.unity.searcher@4.9.5 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.profiling.core@8a49f7027d06)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.render-pipelines.universal@b0678dfc9e21)
+    com.unity.test-framework@1.8.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.test-framework@80f691d4262b)
+    com.unity.timeline@6.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.timeline@c56d56b0070b)
+    com.unity.ugui@2.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.ugui@0727b404f3a0)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.1.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+    com.unity.render-pipelines.core@17.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.render-pipelines.core@285af6b8c83f)
+    com.unity.shadergraph@17.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.shadergraph@58bcb150677d)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.graph-authoring@1.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.graph-authoring@cfd2588851ee)
+    com.unity.burst@2.0.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.collections@10fff0607388)
+    com.unity.test-framework.performance@6.6.0 (location: /Users/a1234/My project (1)/Library/PackageCache/com.unity.test-framework.performance@b6023decb532)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00 seconds
+Starting: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/a1234/My project (1)
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Resources/Scripting/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 0s282ms
+[679/890    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.27 seconds), 1 items updated, 890 evaluated
+AssetDatabase: script compilation time: 0.543908s
+Total cache size 268424699
+Total cache size after purge 268424699, took 00:00:00.1014850
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.491 seconds
+Domain Reload Profiling: 959ms
+	BeginReloadAssembly (141ms)
+		DisableScriptedObjects (56ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (292ms)
+		LoadAssemblies (132ms)
+		TypeCache.Refresh (91ms)
+			TypeCache.ScanAssembly (82ms)
+		AnalyzeDomain (31ms)
+			BuildScriptInfoCaches (26ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (491ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (186ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Starting new worker id: 0 with log in /Users/a1234/My project (1)/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=1b466174b0023400581902385939cd52): Total: 2.130 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1040 ms
+		Asset DB Callback time: managed=22 ms, native=4 ms
+		Scripting: domain reloads=1, domain reload time=487 ms, compile time=545 ms, other=29 ms
+		Project Asset Count: scripts=1383, non-scripts=2457
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 5.064ms
+	ApplyChangesToAssetFolders: 0.206ms
+	Scan: 323.523ms
+	Collect global state as custom dependencies: 11.473ms
+	CategorizeScriptCompilationAssets: 34.277ms
+	ProcessAssetsWithTransientArtifactChanges: 36.218ms
+	CategorizeAssets: 35.725ms
+	CompileScripts: 545.223ms
+	ImportOutOfDateAssets: 497.368ms (494.193ms without children)
+		UnloadImportedAssets: 1.546ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.355ms
+		ImportSchedulerStart: 1.240ms
+	PostProcessAllAssets: 22.954ms
+		MonoPostProcessAllAssets: 22.929ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 6.864ms
+			SyncVS.PostprocessSyncProject 5.412ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 0.872ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.771ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.439ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.311ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.273ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.124ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.118ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.092ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.086ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.059ms
+	UnloadStreamsBegin: 1.051ms
+	PersistCurrentRevisions: 0.079ms
+	GenerateScriptTypeHashes: 0.723ms
+	GenerateScriptTypeSerializationHashes: 1.364ms
+	Untracked: 615.533ms
+
+Application.AssetDatabase Initial Refresh End
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Scanning for USB devices : 0.025ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-My project (1)
+2026-10-16 12:42:45.465 Unity[4378:93696] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x787b7eec60 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 62 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6625 unused Assets / (10.6 MB). Loaded Objects now: 7585.
+Memory consumption went from 268.7 MB to 258.1 MB.
+Total: 6.864083 ms (FindLiveObjects: 0.378875 ms CreateObjectMapping: 0.202708 ms MarkObjects: 4.310250 ms  DeleteObjects: 1.885000 ms)
+
+[LAYOUT] About to load UserSettings/Layouts/default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout /Users/a1234/My project (1)/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/a1234/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+This project uses Input Manager, which is marked for deprecation. To manage input in your project, use the <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@latest">Input System package</a> instead.
+[Project] Loading completed in 4.302 seconds
+	Project init time: 				3.590 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.066 seconds
+		Asset Database init time: 		0.169 seconds
+		Global illumination init time: 	0.000 seconds
+		Assemblies load time: 			0.668 seconds
+		Unity extensions init time: 	0.022 seconds
+		Asset Database refresh time: 	2.132 seconds
+	Scene opening time: 			0.585 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1792129365989,"processId":4378,"projectLoad":4.302093125,"projectInit":3.589948875,"templateInit":0.0,"packageManagerInit":0.066048584,"assetDatabaseInit":0.16946025,"globalIlluminationInit":0.000285542,"assembliesLoad":0.66799325,"unityExtensionsInit":0.022398,"assetDatabaseRefresh":2.131990875,"sceneOpening":0.585266542}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1792129365989,"processId":4378,"editorVersion":"6000.6.4f1 (12bfff696524)","branch":"6000.6/staging","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Worker ready: AssetImportWorkerHW0 0
+GPU Resident Drawer created.
+Created GICache directory at /Users/a1234/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.001s, timestamps: [4.312 - 4.313]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "VnjIx-Li"... (expires: 2026-10-16T07:02:17Z)
+Asset Pipeline Refresh (id=bf5329da5e2f546108833421a305120f): Total: 0.164 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+UPID Received '236da5bc-f1d6-492f-ae1f-6722c2e6d1ed'.
+[Licensing::Client] Successfully resolved entitlement details
+TrimDiskCacheJob: Current cache size 0mb
+Asset Pipeline Refresh (id=5b253aef6891e429ab9a916c75e67d85): Total: 0.076 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=1510572e6f67e4281b410a934f216c5e): Total: 0.104 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=ee850259006c3433b90996c2bf1d0fea): Total: 0.072 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=c8eccd74c548e4199874d96cb3db6648): Total: 0.070 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=a1ac00e32f3804ab38938797e388f08f): Total: 0.080 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=93ba0d4b61eb042f0a27367509cb4dff): Total: 0.071 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=78bdaec01150d414da4a32324f847d82): Total: 0.075 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=e284531ba052f44cea80dcee8569bf19): Total: 0.103 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=7761c8eafb65b4c7e9e99ff2d1a63468): Total: 0.075 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=5a37a7bec34ab4ba8a9d5fc535af8aa6): Total: 0.074 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=40c3f7b83009848f38678cb13f56f115): Total: 0.068 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=9976b12d8c86d4fd68d05a14bdc8448c): Total: 0.066 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=39623459220ad4daf913931c25df8cf1): Total: 0.074 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=8f154053f72a64d889236948965711af): Total: 0.088 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=7e3d79fe96d3347b78fbe0e291f6d654): Total: 0.073 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=996d1e9dc6a694c4991e9de8b0be00dc): Total: 0.064 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=8e5e2a07dded446868f59b49b79dba2c): Total: 0.077 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=e30d913df6a3546c390ae8a631879f53): Total: 0.091 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=f5edcbd0c3ae14d01b4241f2f08ea04b): Total: 0.066 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=c847051ccfd224404895b3e214a2b3eb): Total: 0.113 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=5bb9c46b7b20d43ab97279635404f54e): Total: 0.060 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=13447c3e84a6d478b88a4ed15b6bf1ac): Total: 0.087 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+MonoPathRemapper: Attempts to remap: 43585; Successful remaps: 18840
+Thread 0x712c76b000 may have been prematurely finalized
+Serialized file version minimum: 23, current 23
+[LAYOUT] About to save layout /Users/a1234/My project (1)/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/a1234/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=8ddc2cb742730483383fa3f4228bc0d6): Total: 0.037 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+GPU Resident Drawer disposed.
+Thread 0x712ca87000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Thread 0x174e33000 may have been prematurely finalized
+Thread 0x174f4b000 may have been prematurely finalized
+Thread 0x17517b000 may have been prematurely finalized
+Thread 0x174fd7000 may have been prematurely finalized
+Thread 0x175063000 may have been prematurely finalized
+Thread 0x174da7000 may have been prematurely finalized
+Thread 0x1750ef000 may have been prematurely finalized
+Thread 0x174ebf000 may have been prematurely finalized
+Thread 0x175207000 may have been prematurely finalized
+Thread 0x175293000 may have been prematurely finalized
+Thread 0x17531f000 may have been prematurely finalized
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-a1234-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-a1234 channel disconnected successfully.
+Shut down UDS service system complete
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+debugger-agent: Unable to listen on 86
+VBCSCompilerPreWarmer: requested VBCSCompiler shutdown
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1792130120427,"processId":4378,"allocatedMemory":14216144,"memoryLabels":[{"Default":200571},{"Permanent":15672},{"Thread":1056776},{"Manager":2330358},{"VertexData":8},{"Geometry":408},{"Texture":24},{"Shader":854122},{"Material":212},{"GfxDevice":42304},{"GfxThread":1920},{"Animation":968},{"Audio":1896},{"FreeType":8},{"FontEngine":736},{"Physics":2002},{"Physics2D":16},{"Serialization":16392},{"Input":43216},{"JobScheduler":448},{"TextLib":18987},{"Mono":56},{"MonoCode":72},{"ScriptingNativeRuntime":155024},{"BaseObject":49184},{"Resource":1460},{"Renderer":2744},{"Transform":4693},{"File":4604},{"WebCam":32},{"Culling":32},{"Terrain":11346},{"Wind":24},{"String":574737},{"StaticString":3808},{"Utility":2692864},{"PoolAlloc":2632},{"AI":80},{"TypeTree":17293},{"ScriptManager":12656},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7240},{"Director":8288},{"CloudService":7728},{"WebRequest":4634},{"VR":49426},{"SceneManager":616},{"Video":2112},{"LazyScriptCache":32},{"NativeArray":936},{"Camera":1177},{"Secure":9865},{"SerializationCache":9704},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57504},{"StaticSafetyDebugInfo":278528},{"Baselib":16},{"Analytics":568},{"Hierarchy":1492},{"UIElements":40},{"CoreStats":14536},{"Identifiers":7152},{"Gui":280510},{"EditorUtility":613424},{"VersionControl":8},{"Undo":939},{"AssetDatabase":4666154},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":36970},{"Upm":1788},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"HubClient":848},{"LocalIPC":204},{"ProfilerEditor":9738},{"CoreBusinessMetrics":3205},{"Windowing":416},{"Licensing":992},{"AssetReference":32},{"IPCStream":7003}]}

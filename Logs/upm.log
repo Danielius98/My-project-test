@@ -1,0 +1,31 @@
+[2026-10-16T05:42:41.919Z][INFO] Command-line: /Applications/Unity/Hub/Editor/6000.6.4f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager server -s 4378 --ipc-path /tmp/Unity-Upm-4378.sock -l 2 --log-file '/Users/a1234/My project (1)/Logs/upm.log'
+[2026-10-16T05:42:41.927Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-4378.sock).
+[2026-10-16T05:42:41.928Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-4378.
+[2026-10-16T05:42:42.787Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-16T05:42:42.844Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-16T05:42:42.850Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-10-16T05:42:42.853Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-16T05:42:42.875Z][INFO] project:list-packages --> 200 (88 ms)
+[2026-10-16T05:42:42.910Z][INFO] project:list-packages --> 200 (57 ms)
+[2026-10-16T05:42:44.717Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-16T05:42:44.728Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-16T05:42:44.773Z][INFO] project:list-packages --> 200 (56 ms)
+[2026-10-16T05:42:44.792Z][INFO] project:list-packages --> 200 (64 ms)
+[2026-10-16T05:42:44.838Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-16T05:42:44.880Z][INFO] project:list-packages --> 200 (42 ms)
+[2026-10-16T05:42:44.883Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-16T05:42:44.884Z][INFO] config:project:get-registries --> 200 (1 ms)
+[2026-10-16T05:42:45.978Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-16T05:42:46.024Z][INFO] project:list-packages --> 200 (46 ms)
+[2026-10-16T05:42:47.690Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-16T05:42:49.913Z][INFO] project:list-packages --> 200 (2223 ms)
+[2026-10-16T05:55:20.404Z][INFO] Received shutdown request (SIGTERM), shutting down Unity Package Manager
